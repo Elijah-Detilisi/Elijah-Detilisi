@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elijah-Detilisi
+- 👋 Hi, I’m @Elijah-Detilisi, but you can call me Elijah.
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 🌱 I’m currently studing Computer Science and Mathematics(Bsc).
 - 💞️ I’m looking to collaborate on data science based projects and harness my machine learning knowledge.
