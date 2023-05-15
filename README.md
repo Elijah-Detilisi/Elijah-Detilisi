@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center" >🧑🏽‍💻 B. Elijah Detilisi</h1>
+<h1 align="left" >🧑🏽‍💻 B. Elijah Detilisi</h1>
 <!-- Introduction -->
 <h4 align="left">
     I am a Junior .NET Developer, I love coding and creating awesome projects.
@@ -58,7 +58,7 @@
 <br>
 <!-- Tech -->
 <hr>
-<h3 align="center">📊 Stats:</h3>
+<h3 align="left">📊 Stats:</h3>
 <br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elijah-detilisi&show_icons=true&locale=en&layout=compact" alt="elijah-detilisi" />
