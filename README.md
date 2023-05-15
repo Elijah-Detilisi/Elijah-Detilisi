@@ -1,23 +1,23 @@
 <!-- Header -->
 <h1 align="center" >🧑🏽‍💻 B. Elijah Detilisi</h1>
 <!-- Introduction -->
-<h4 align="center">
+<h4 align="left">
     I am a Junior .NET Developer, I love coding and creating awesome projects.
     Check out some of my work in the 'repositories' section.
 </h4>
 <!-- Contacts -->
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <br>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/bongani-elijah-detilisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bongani-elijah-detilisi" height="30" width="40" /></a>
 </p>
 <br>
 <!-- Tech -->
 <hr>
-<h3 align="center">⚙️ Languages and Tools:</h3>
+<h3 align="left">⚙️ Languages and Tools:</h3>
 <br>
-<p align="center"> 
+<p align="left"> 
     <!-- Backend -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
