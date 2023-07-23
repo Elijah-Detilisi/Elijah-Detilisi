@@ -2,8 +2,8 @@
 <h1 align="left" >🧑🏽‍💻 B. Elijah Detilisi</h1>
 <!-- Introduction -->
 <h4 align="left">
-    I am a Junior .NET Developer, I love coding and creating awesome projects.
-    Check out some of my work in the 'repositories' section.
+    I'm a Junior .NET Developer, I'm all about that coding life and I love working on cool projects. 
+    Check out the 'repositories' section, and you'll see some awesome stuff I've whipped up. 
 </h4>
 <!-- Contacts -->
 <hr>
